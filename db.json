@@ -1,0 +1,199 @@
+{
+  "pre-recipes": [
+    {
+      "id": 428,
+      "recipeName": "Burger",
+      "duration": "1",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": 883,
+      "recipeName": "tt",
+      "duration": "22",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "11"
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "recipeName": "2",
+      "duration": "2",
+      "ingredients": [
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "2"
+        }
+      ]
+    },
+    {
+      "id": 678,
+      "recipeName": "2",
+      "duration": "2",
+      "ingredients": [
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "2"
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "recipeName": "22",
+      "duration": "1",
+      "ingredients": [
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "recipeName": "5",
+      "duration": "5",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "5"
+        }
+      ]
+    },
+    {
+      "id": 806,
+      "recipeName": "5",
+      "duration": "3",
+      "ingredients": [
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "55"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "5"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "recipeName": "3",
+      "duration": "3",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "3"
+        },
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "3"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "3"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "3"
+        }
+      ]
+    },
+    {
+      "id": 980,
+      "recipeName": "4",
+      "duration": "2",
+      "ingredients": [
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "4"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "4"
+        }
+      ]
+    },
+    {
+      "id": 804,
+      "recipeName": "5",
+      "duration": "5",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "55"
+        },
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "5"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "5"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Carrots"
+    },
+    {
+      "id": 2,
+      "name": "Flour"
+    },
+    {
+      "id": 3,
+      "name": "Vanilla"
+    },
+    {
+      "id": 4,
+      "name": "Sugar"
+    }
+  ],
+  "fridge": [
+    {
+      "id": 1,
+      "ingredientId": 1,
+      "availableQuantity": 45
+    },
+    {
+      "id": 2,
+      "ingredientId": 2,
+      "availableQuantity": 46
+    },
+    {
+      "id": 3,
+      "ingredientId": 3,
+      "availableQuantity": 45
+    },
+    {
+      "id": 4,
+      "ingredientId": 4,
+      "availableQuantity": 50
+    }
+  ]
+}
